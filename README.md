@@ -6,7 +6,7 @@ Flippant is a voice-based home automation system that aims to easily control hom
 Its meant to be primarily for the elderly and the disabled. It aims to offer :
 
 1.    Voice Paswords.
-2.    Basic control of home appliances starting from a fan, a tubelight.
+2.    Basic control of home appliances starting from a fan, a tubelight,etc.
 3.    Easily extensible to other developers to take the system forward.
                     
 
@@ -24,7 +24,7 @@ in the program.
 
 Where are we? 
 --------------
-As on 20/2/2012
+As of 20/2/2012
 This project is my final year project and would develop periodically over the next 2 months. 
 Right now we've experimented with a bunch of LEDs and possible iterations to simulate simaeltenous loads on the system.
 
